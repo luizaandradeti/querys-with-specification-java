@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.luizaInterface</groupId>
-	<artifactId>localizacao</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>localizacao</name>
+	<artifactId>specs</artifactId>
+	<version>0.0.2-SNAPSHOT</version>
+	<name>specs</name>
 	<description>Specs - Treinamento realizado em 2022 com Douglas Sousa</description>
 	<properties>
 		<java.version>11</java.version>
